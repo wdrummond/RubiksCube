@@ -1,0 +1,39 @@
+State Display For Breadth First Graph. Cube 0000 ( A solved cube) 
+Path Cost: 0
+Nodes generated: 1
+Nodes stored:    1
+
+State Display For Breadth First Graph. Cube 2010 
+rotating red cw.
+Path Cost: 1
+Nodes generated: 57
+Nodes stored:    57
+
+State Display For Breadth First Graph. Cube 6020
+rotating yellow cw.
+rotating yellow cw.
+Path Cost: 2
+Nodes generated: 1099
+Nodes stored:    1077
+
+State Display For Breadth First Graph. Cube 5130
+rotating yellow cw.
+rotating red cw.
+rotating red cw.
+Path Cost: 3
+Nodes generated: 9073
+Nodes stored:    8854
+
+State Display For Breadth First Graph. Cube 4140
+rotating white ccw.
+rotating red cw.
+rotating red cw.
+rotating orange cw.
+Path Cost: 4
+Nodes generated: 20657
+Nodes stored:    20158
+
+State Display For Breadth First Graph. Cube 4150
+(Can't find solution)
+
+Couldn't find any solutions for cubes past this point.

@@ -1,0 +1,39 @@
+State Display For Depth Limited Tree. Cube 0000 ( A solved cube) 
+Path Cost: 0
+Nodes generated: 1
+Nodes stored:    1
+
+State Display For Depth Limited Tree. Cube 2010 
+rotating red cw.
+Path Cost: 1
+Nodes generated: 13
+Nodes stored:    12
+
+State Display For Depth Limited Tree. Cube 6020 
+rotating yellow ccw.  
+rotating yellow ccw. 
+Path Cost: 2
+Nodes generated: 25
+Nodes stored:    23
+
+State Display For Depth Limited Tree. Cube 5130
+rotating yellow cw.
+rotating red ccw.
+rotating red ccw.
+Path Cost: 3
+Nodes generated: 2929
+Nodes stored:    45
+
+State Display For Depth Limited Tree. Cube 4140
+rotating white ccw. 
+rotating orange cw.  
+rotating red ccw. 
+rotating red ccw. 
+Path Cost: 4
+Nodes generated: 19273
+Nodes stored:    45
+
+State Display For Depth Limited Tree. Cube 4150
+(Can't find solution)
+
+Couldn't find any solutions for cubes past this point.

@@ -1,0 +1,39 @@
+State Display For AStar Graph. Cube 0000 ( A solved cube) 
+Path Cost: 0
+Nodes generated: 1
+Nodes stored:    1
+
+State Display For AStar Graph. Cube 2010 
+rotating red cw.
+Path Cost: 1
+Nodes generated: 79
+Nodes stored:    79
+
+State Display For AStar Graph. Cube 6020
+rotating yellow ccw.
+rotating yellow ccw.
+Path Cost: 2
+Nodes generated: 681
+Nodes stored:    669
+
+State Display For AStar Graph. Cube 5130
+rotating yellow cw.
+rotating red cw.
+rotating red cw.
+Path Cost: 3
+Nodes generated: 5767
+Nodes stored:    5664
+
+State Display For AStar Graph. Cube 4140
+rotating white ccw.
+rotating red ccw.
+rotating red ccw.
+rotating orange cw.
+Path Cost: 4
+Nodes generated: 65880
+Nodes stored:    64373
+
+State Display For AStar Graph. Cube 4150
+(Can't find solution)
+
+Couldn't find any solutions for cubes past this point.
